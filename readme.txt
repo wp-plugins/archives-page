@@ -29,7 +29,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 ### Rate The Plugin
 
-* [Please rate Featured Image Widget plugin](https://wordpress.org/support/view/plugin-reviews/archives-page#postform)
+* [Please rate Archives Page plugin](https://wordpress.org/support/view/plugin-reviews/archives-page#postform)
 
 ### Download Davinci WordPress Blog Theme
 
