@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Archives Page
-Plugin URI: http://wp-time.com/archives/
+Plugin URI: http://wp-time.com/archives-page/
 Description: Make archives page easily with full customize and in all languages of the world.
 Version: 1.0.0
 Author: Qassim Hassan

@@ -25,7 +25,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 ### Live Demo
 
-* [http://wp-time.com/archives/](http://wp-time.com/archives/)
+* [http://wp-time.com/archives-page/](http://wp-time.com/archives-page/)
 
 ### Rate The Plugin
 
