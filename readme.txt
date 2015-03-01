@@ -1,7 +1,7 @@
 ﻿=== Archives Page ===
 Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
-Tags: archive, archives, archives page, archive page, archive template, archives template, page template, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer custom customizing, full
+Tags: archive, archives, archives page, archive page, archive template, archives template, page template, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.0
 Tested up to: 4.1.1
 Stable tag: 1.0.0
@@ -33,7 +33,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 ### Download Davinci WordPress Blog Theme
 
-* [Responsive and Retina WordPress blog Theme with a lot of features](http://qass.im/my-plugins/davinci-a-premium-wordpress-blog-theme/)
+* [Responsive and Retina WordPress blog Theme with a lot of features](http://wp-time.com/a-premium-wordpress-blog-themes/)
 
 ### Beautiful WordPress Themes
 
