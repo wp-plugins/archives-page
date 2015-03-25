@@ -12,7 +12,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 == Description ==
 
-### Archives Page        
+### Archives Page         
 
 Make archives page easily with full customize and in all languages of the world.
 
@@ -105,7 +105,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 ### FAQ
 
-* [For more questions or help, contact me.](http://qass.im/contact)
+* [For more questions or help, contact me.](http://wp-time.com/contact/)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
