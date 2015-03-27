@@ -1,6 +1,6 @@
 ﻿=== Archives Page ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/plugins_donation
+Donate link: http://j.mp/WPTime_donations
 Tags: archive, archives, archives page, archive page, archive template, archives template, page template, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.0
 Tested up to: 4.1.1
