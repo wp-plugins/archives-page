@@ -12,7 +12,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 == Description ==
 
-### Archives Page1
+### Archives Page
 
 Make archives page easily with full customize and in all languages of the world.
 
