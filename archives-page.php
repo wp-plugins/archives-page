@@ -3,7 +3,7 @@
 Plugin Name: Archives Page
 Plugin URI: http://wp-time.com/archives-page/
 Description: Make archives page easily with full customize and in all languages of the world.
-Version: 1.0.1
+Version: 1.2
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
@@ -91,7 +91,7 @@ function get__tags__list($tags_number = '10'){
 	
 	foreach ( $tags as $tag ) {
 		$tag_link = get_tag_link( $tag->term_id );	
-		$html .= "<li><a href='{$tag_link}' title='{$tag->name} Tag' class='{$tag->slug}'>{$tag->name}</a></li>";
+		$html .= "<li><a href='{$tag_link}' title='{$tag->name} Tag'>{$tag->name}</a></li>";
 	}
 	
 	return $html;

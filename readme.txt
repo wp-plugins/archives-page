@@ -3,8 +3,8 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/WPTime_donations
 Tags: archive, archives, archives page, archive page, archive template, archives template, page template, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.0
-Tested up to: 4.1.2
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 == Description ==
 
-### Archives Page         
+### Archives Page
 
 Make archives page easily with full customize and in all languages of the world.
 
@@ -105,11 +105,14 @@ Make archives page easily with full customize and in all languages of the world.
 
 == Changelog ==
 
-= 1.0.1 =
-WP Time Support.
+= 1.2 =
+* Fixing problem in tags classes.
+
+= 1.1 =
+* WP Time Support.
 
 = 1.0.0 =
-First version.
+* First Version.
 
 == Upgrade Notice ==
 Currently not available.
