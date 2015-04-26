@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: archive, archives, archives page, archive page, archive template, archives template, page template, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -105,6 +105,9 @@ Make archives page easily with full customize and in all languages of the world.
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.4 =
+* Fixing some problems.
 
 = 1.3 =
 * Shortcodes page added, go to your wp-admin > Plugins > Archives Page.
