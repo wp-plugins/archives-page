@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: archive, archives, archives page, archive page, archive template, archives template, page template, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, customize, customizer, custom, customizing, full
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 == Description ==
 
-### Archives Page   
+### Archives Page
 
 Make archives page easily with full customize and in all languages of the world.
 
@@ -54,6 +54,7 @@ Make archives page easily with full customize and in all languages of the world.
 
 1. Upload 'archives-page' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to your wp-admin > Plugins > Archives Page.
 
 ### Shortcodes
 
@@ -71,7 +72,7 @@ Make archives page easily with full customize and in all languages of the world.
 1. number="" (number of list, example: number="3" will be display 3 latest posts or 3 tags .. etc, see default number in default usage section).
 2. heading="" (heading of title, example: heading="h1" default is h3).
 3. list="" (list type, example: list="ol" default is ul).
-4. title="" (title of list, example: title="Recent Posts" enter title using your languge :) ).
+4. title="" (title of list, example: title="Recent Posts" enter title using your language).
 * See usage to understand me.
 
 ### Default Usage
@@ -104,6 +105,9 @@ Make archives page easily with full customize and in all languages of the world.
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
+
+= 1.3 =
+Shortcodes page added, go to your wp-admin > Plugins > Archives Page.
 
 = 1.2 =
 * Fixing problem in tags classes.
