@@ -107,7 +107,7 @@ Make archives page easily with full customize and in all languages of the world.
 == Changelog ==
 
 = 1.3 =
-Shortcodes page added, go to your wp-admin > Plugins > Archives Page.
+* Shortcodes page added, go to your wp-admin > Plugins > Archives Page.
 
 = 1.2 =
 * Fixing problem in tags classes.
