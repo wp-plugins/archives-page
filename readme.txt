@@ -108,7 +108,7 @@ Make archives page easily with full customize and in all languages of the world.
 == Changelog ==
 
 = 1.5 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.4 =
 * Fixing some problems.
