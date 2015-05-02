@@ -1,7 +1,7 @@
 <?php
 
 	function WPTime_archives_page_shortocodes() {
-		add_submenu_page( 'plugins.php', 'Archives Page Shortcodes', 'Archives Page', 'update_core', 'WPTime_archives_page_shortocodes', 'WPTime_archives_page_shortocodes_page');
+		add_plugins_page( 'Archives Page Shortcodes', 'Archives Page', 'update_core', 'WPTime_archives_page_shortocodes', 'WPTime_archives_page_shortocodes_page' );
 	}
 	add_action( 'admin_menu', 'WPTime_archives_page_shortocodes' );
 		
